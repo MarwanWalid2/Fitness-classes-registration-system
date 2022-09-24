@@ -12,7 +12,7 @@ Any admin can: register new admins / register new members / add a new fitness cl
 
 A member can:  book class / cancel booking / display class with vacancies
 
-Before logining in as a member, an admin should have registered that member.
+Before login-ing in as a member, an admin should have registered that member.
 
 ----
 After the program ends it prints 3 files that contains the details for each admin, member and fitness class
